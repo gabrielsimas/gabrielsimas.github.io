@@ -10,11 +10,11 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://peripeciasdesenvolvedor.blogspot.com/
+   url: https://peripeciasdesenvolvedor.blogspot.com/
  - title: GitHub
    url: https://github.com/gabrielsimas
  - title: StackOverflow
-   url: http://stackoverflow.com/users/2593423/gabriel-simas?tab=profile
+   url: https://stackoverflow.com/users/2593423/gabriel-simas?tab=profile
  - title: DZone
    url: https://dzone.com/users/859885/gabrielsimas.html
  - title: LinkedIn
@@ -117,8 +117,8 @@ education:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/2593423/gabriel-simas
-   flairimageurl: http://stackoverflow.com/users/flair/2593423.png
+   profileurl: https://stackoverflow.com/users/2593423/gabriel-simas
+   flairimageurl: https://stackoverflow.com/users/flair/2593423.png
 
 #Mobile apps section is optional
 #apps:
