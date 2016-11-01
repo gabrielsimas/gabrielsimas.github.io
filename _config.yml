@@ -60,7 +60,7 @@ skills:
  - MySQL;
  
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://feeds.feedburner.com/AsPerpciasDeUmDesenvolvedorMaroto
+blogfeed: https://peripeciasdesenvolvedor.blogspot.com/feeds/posts/default
 
 #Work experience is required
 #roles:
